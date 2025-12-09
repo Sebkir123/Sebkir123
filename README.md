@@ -1,43 +1,104 @@
-## Hi there 👋
-
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-<h1>Hey there, I'm <a href="https://github.com/YOUR_USERNAME">YOUR NAME</a>! 🚀</h1>
+# 🐍 Sebastian Kirschner
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Coffee+Drinker;Always+Learning..." alt="Typing SVG" />
-</a>
+### Founder & CTO @ MambaHR | AI-Native People Operating System
 
-<br/>
+*Building the future of HR infrastructure with intelligent, chat-first interfaces*
 
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-<br/><br/>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sebkir123show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sebkir123&theme=tokyonight&hide_border=true" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebkir123&layout=compact&theme=tokyonight&hide_border=true" />
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Website](https://img.shields.io/badge/-MambaHR-7C3AED?style=flat&logo=safari&logoColor=white)](https://mambahr.com)
 
 </div>
 
-![Snake animation](https://github.com/Sebkir123/Sebkir123/blob/output/github-contribution-grid-snake.svg)
+---
 
+## 👨‍💻 About Me
 
+I'm an AI engineer and entrepreneur reimagining enterprise software through intelligent automation. Currently finishing dual degrees in Computer Science (CU Boulder '26) while building **MambaHR** — an AI-native HRIS that replaces traditional point-and-click interfaces with natural language.
+
+**Current Focus:**
+- 🚀 Building multi-tenant SaaS with Supabase, Next.js, and advanced RAG systems
+- 🏢 Product Owner at ZKB working on decentralized data mesh & CRM systems
+- 🤖 Exploring AI agents for compliance automation and real-time performance intelligence
+- 📝 Developing NIW visa documentation showcasing technical innovation
+
+---
+
+## 🛠️ Tech Stack
+```javascript
+const seb = {
+  infrastructure: ['AWS', 'Supabase', 'Docker', 'Multi-tenant Architecture'],
+  backend: ['Node.js', 'Python', 'FastAPI', 'PostgreSQL', 'pgvector'],
+  frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'],
+  ai_ml: ['OpenAI API', 'RAG Systems', 'Semantic Search', 'LangChain'],
+  integrations: ['HRIS APIs', 'Finch', 'Workday', 'BambooHR'],
+  design: ['Figma', 'Apple-inspired UI', 'Liquid Glass Aesthetics'],
+  expertise: ['Enterprise Architecture', 'Privacy-Preserving Analytics', 'AI Agents']
+};
+```
+
+---
+
+## 🎯 Featured Projects
+
+### 🐍 [MambaHR](https://github.com/yourusername/mambahr)
+> **AI-Native People Operating System**  
+> Replacing traditional HRIS with intelligent, chat-first interfaces. Built with Next.js, Supabase, and advanced RAG capabilities using pgvector for semantic search.
+> 
+> **Tech:** React · TypeScript · Supabase · OpenAI · Multi-tenant SaaS
+
+### 💼 [PetCarePro](https://github.com/yourusername/petcarepro)
+> **Multi-tenant CRM for Pet Care Professionals**  
+> Full-stack SaaS platform with comprehensive authentication, scheduling, and client management.
+>
+> **Tech:** Next.js · Supabase · Tailwind · Row-level Security
+
+### 📊 Data Mesh for Financial Institutions
+> **Bachelor Thesis & Production Implementation**  
+> Decentralized data architecture enabling domain-driven analytics at scale for banking institutions.
+>
+> **Tech:** Microservices · BGP Configuration · Distributed Systems
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sebkir123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebkir123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9" />
+</div>
+
+---
+
+## 🌱 Beyond Code
+
+- 🎓 **Education:** BS Computer Science (CU Boulder) · MS Computer Science (in progress) · Business Administration Diploma (SIB)
+- 🚀 **Startup Experience:** Antler NYC Cohort · Newchip Mentor
+- 💼 **Background:** 5+ years in tech · Former Banker & Software Engineer at Trend Products
+- 🎯 **Current Mission:** Building enterprise AI systems that respect privacy while delivering intelligence
+
+---
+
+## 💡 Philosophy
+
+> "The best enterprise software disappears into natural conversation. AI shouldn't just assist work — it should fundamentally reimagine how work gets done."
+
+---
+
+<div align="center">
+
+### 📫 Let's Build Together
+
+I'm always interested in discussing AI agents, enterprise architecture, and the future of work.
+
+**Open to:** Technical partnerships · Investor conversations · AI/ML collaborations
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sebkir123&color=7C3AED&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
