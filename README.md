@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🐍 Sebastian Kirschner
+# 🐍 Sebastian Kirsch
 
-### Founder & CTO @ MambaHR | AI-Native People Operating System
+### Co-Founder & CTO @ MambaHR | AI-Native People Operating System
 
 *Building the future of HR infrastructure with intelligent, chat-first interfaces*
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sebastiankirsch-/))
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Website](https://img.shields.io/badge/-MambaHR-7C3AED?style=flat&logo=safari&logoColor=white)](https://mambahr.com)
 
