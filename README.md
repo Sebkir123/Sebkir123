@@ -4,7 +4,7 @@
 
 ### Co-Founder & CTO @ MambaHR | AI-Native People Operating System
 
-*Building the future of HR infrastructure with intelligent, chat-first interfaces*
+*Building the future of HR infrastructure with intelligent*
 
 [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sebastiankirsch-/))
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
@@ -20,20 +20,19 @@ I'm an AI engineer and entrepreneur reimagining enterprise software through inte
 
 **Current Focus:**
 - 🚀 Building multi-tenant SaaS with Supabase, Next.js, and advanced RAG systems
-- 🏢 Product Owner at ZKB working on decentralized data mesh & CRM systems
+- 🏢 Product Owner at a major Swiss Bank working on decentralized data mesh & CRM systems
 - 🤖 Exploring AI agents for compliance automation and real-time performance intelligence
-- 📝 Developing NIW visa documentation showcasing technical innovation
 
 ---
 
 ## 🛠️ Tech Stack
 ```javascript
 const seb = {
-  infrastructure: ['AWS', 'Supabase', 'Docker', 'Multi-tenant Architecture'],
+  infrastructure: ['AWS', 'GCP', 'Azure', 'Supabase', 'Firebase', 'Docker', 'Multi-tenant Architecture'],
   backend: ['Node.js', 'Python', 'FastAPI', 'PostgreSQL', 'pgvector'],
-  frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'],
+  frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Flutter'],
   ai_ml: ['OpenAI API', 'RAG Systems', 'Semantic Search', 'LangChain'],
-  integrations: ['HRIS APIs', 'Finch', 'Workday', 'BambooHR'],
+  integrations: ['APIs', 'Finch', 'Workday', 'BambooHR'],
   design: ['Figma', 'Apple-inspired UI', 'Liquid Glass Aesthetics'],
   expertise: ['Enterprise Architecture', 'Privacy-Preserving Analytics', 'AI Agents']
 };
