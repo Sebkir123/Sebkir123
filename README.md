@@ -42,13 +42,13 @@ const seb = {
 
 ## 🎯 Featured Projects
 
-### 🐍 [MambaHR](https://github.com/yourusername/mambahr)
+### 🐍 [MambaHR]
 > **AI-Native People Operating System**  
 > Replacing traditional HRIS with intelligent, chat-first interfaces. Built with Next.js, Supabase, and advanced RAG capabilities using pgvector for semantic search.
 > 
 > **Tech:** React · TypeScript · Supabase · OpenAI · Multi-tenant SaaS
 
-### 💼 [PetCarePro](https://github.com/yourusername/petcarepro)
+### 💼 [PetCarePro]
 > **Multi-tenant CRM for Pet Care Professionals**  
 > Full-stack SaaS platform with comprehensive authentication, scheduling, and client management.
 >
@@ -62,20 +62,11 @@ const seb = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sebkir123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebkir123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9" />
-</div>
-
----
-
 ## 🌱 Beyond Code
 
-- 🎓 **Education:** BS Computer Science (CU Boulder) · MS Computer Science (in progress) · Business Administration Diploma (SIB)
+- 🎓 **Education:** BS Computer Science (Euro-FH) · MS Computer Science (CU Boulder - in progress) · Business Administration Diploma (SIB)
 - 🚀 **Startup Experience:** Antler NYC Cohort · Newchip Mentor
-- 💼 **Background:** 5+ years in tech · Former Banker & Software Engineer at Trend Products
+- 💼 **Background:** 5+ years in tech · Former Banker & Software Engineer
 - 🎯 **Current Mission:** Building enterprise AI systems that respect privacy while delivering intelligence
 
 ---
