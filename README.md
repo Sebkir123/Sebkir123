@@ -42,13 +42,13 @@ const seb = {
 
 ## 🎯 Featured Projects
 
-### 🐍 [MambaHR]
+### 🐍 MambaHR
 > **AI-Native People Operating System**  
-> Replacing traditional HRIS with intelligent, chat-first interfaces. Built with Next.js, Supabase, and advanced RAG capabilities using pgvector for semantic search.
+> Replacing traditional HRIS with intelligent interfaces. Built with Next.js, Supabase, and advanced RAG capabilities using pgvector for semantic search.
 > 
 > **Tech:** React · TypeScript · Supabase · OpenAI · Multi-tenant SaaS
 
-### 💼 [PetCarePro]
+### 💼 PetCarePro
 > **Multi-tenant CRM for Pet Care Professionals**  
 > Full-stack SaaS platform with comprehensive authentication, scheduling, and client management.
 >
