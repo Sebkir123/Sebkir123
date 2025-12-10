@@ -101,16 +101,6 @@ Various career tools (Montio, job search platforms), networking labs with BGP an
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebkir123&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" alt="GitHub Streak" />
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sebkir123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=3B82F6&text_color=FFFFFF)
-
-</div>
-
----
-
 ## My take on things
 
 Most enterprise software feels stuck in 2005. AI isn't just about adding chatbots - it's a chance to completely rethink interfaces. Natural language should be the default, not a feature.
