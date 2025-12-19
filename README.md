@@ -88,7 +88,7 @@ Built a full multi-tenant CRM for pet care professionals. Complete auth system, 
 
 ---
 
-### 📊 Data Mesh @ ZKB
+### 📊 Data Mesh @ Swiss Major Bank
 Bachelor thesis that actually made it to production. Decentralized data architecture for a major Swiss bank. Domain-driven approach to data products.
 
 **Stack:** Microservices, Distributed Systems, BGP  
