@@ -7,7 +7,6 @@
 Trying to make enterprise software suck less. Currently deep in AI agents, multi-tenant architecture, and questioning my life choices at 2am.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiankirsch-/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xxx)
 [![Website](https://img.shields.io/badge/MambaHR-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://mambahr.com)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Co-Founder+%26+CTO+%40+MambaHR;Full-Stack+AI+Engineer;Enterprise+Software+Architect;Building+the+Future+of+HR+Tech" alt="Typing SVG" />
