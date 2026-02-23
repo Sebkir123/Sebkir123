@@ -4,6 +4,7 @@
 
 **Engineer · AI Systems & Distributed Architecture · Zurich**
 
+[![Website](https://img.shields.io/badge/MambaHR-000000?style=flat&logo=vercel&logoColor=white)]([[https://mambaHR.com](https://www.mambahr.com/](https://www.sebastiankirsch.io/)))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/sebastiankirsch-/))
 [![MambaHR](https://img.shields.io/badge/MambaHR-000000?style=flat&logo=vercel&logoColor=white)]([https://mambaHR.com](https://www.mambahr.com/))
 
