@@ -36,15 +36,14 @@ CS @ CU Boulder (M.S.) + Euro-FH Hamburg (B.S.)
 
 ### Stack
 
-[![Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,postgres,redis,docker,kubernetes,aws,gcp,supabase,flutter&perline=12)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,postgres,redis,docker,firebase,kubernetes,aws,gcp,supabase,flutter&perline=12)](https://skillicons.dev)
 
 ```
-Core          TypeScript · Python · SQL · Dart
+Core          TypeScript · Python · SQL · Dart · Java
 Runtime       Node.js · FastAPI · Prisma · WebSockets
 Data          PostgreSQL · pgvector · Redis · MongoDB · vector DBs
-Infra         AWS · GCP · Docker · Kubernetes · Supabase
+Infra         AWS · GCP · Docker · Kubernetes · Supabase · Firebase · Azure
 AI/ML         OpenAI · Anthropic · LangChain · RAG · embedding pipelines
-Integrations  Finch · Workday · BambooHR · Rippling · OAuth 2.0
 ```
 
 ---
@@ -54,13 +53,6 @@ Integrations  Finch · Workday · BambooHR · Rippling · OAuth 2.0
 Published on **privacy-preserving workforce analytics**, **algorithmic fairness in people systems**, and **taxonomies for enterprise AI agent architectures**. I write to sharpen thinking, not to publish — but some of it ends up as papers.
 
 ---
-
-### Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sebkir123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebkir123&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
